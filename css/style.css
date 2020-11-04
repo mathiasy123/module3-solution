@@ -1,0 +1,39 @@
+/* Header Style */
+.navbar-brand {
+    font-size: 2em;
+}
+
+.navbar-nav .nav-item {
+    color: white;
+}
+
+.navbar-nav li a {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: white;
+}
+
+.navbar-nav li a:hover {
+    background-color: #5bc0de;
+}
+
+/* Content Style */
+.mt-5,
+.my-5 {
+    margin: auto;
+}
+
+.card {
+    margin-bottom: 35px;
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.6em;
+}
+
+.card-text {
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 1.2em;
+}
